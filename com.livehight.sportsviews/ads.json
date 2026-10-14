@@ -3071,10 +3071,10 @@
     "PlayericonUrl": "https://m.media-amazon.com/images/I/71gqWj6FXHL.png",
     "UpdatePackage": "com.ukturksapp.fixturestandingni",
     "UpdateVersion": 1,
-    "ShowTvChannels": false,
-    "ShowLiveMatches": false,
+    "ShowTvChannels": true,
+    "ShowLiveMatches": true,
     "ShowCustomInterAds": false,
-    "PlayInExternalPlayer": false
+    "PlayInExternalPlayer": true
   },
   "CustomInterAds": [],
   "FootballFixtures": [
